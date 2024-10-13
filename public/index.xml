@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raphael Daveau</title>
-    <link>http://localhost:1313/</link>
+    <link>https://raphaelsura.github.io/</link>
     <description>Recent content on Raphael Daveau</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 13:56:06 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raphaelsura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://raphaelsura.github.io/contact/</link>
       <pubDate>Sun, 13 Oct 2024 13:56:06 +0200</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://raphaelsura.github.io/contact/</guid>
       <description>&lt;p&gt;Get in touch&lt;/p&gt;&#xA;&lt;p&gt;Whether you need a better understanding of your data, creating beautiful visualizations or live dashboards, making future predictions.. let&amp;rsquo;s discuss.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://raphaelsura.github.io/projects/</link>
       <pubDate>Sun, 13 Oct 2024 13:55:32 +0200</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://raphaelsura.github.io/projects/</guid>
       <description>&lt;p&gt;My projects&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/skills/</link>
+      <link>https://raphaelsura.github.io/skills/</link>
       <pubDate>Sun, 13 Oct 2024 13:55:06 +0200</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      <guid>https://raphaelsura.github.io/skills/</guid>
+      <description>&lt;h2 id=&#34;skills&#34;&gt;&#xD;&#xA;  Skills&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://raphaelsura.github.io/about/</link>
       <pubDate>Fri, 11 Oct 2024 12:11:32 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://raphaelsura.github.io/about/</guid>
       <description>&lt;p&gt;I am an AI scientist and Python developer transitioning from the world of academic research. I am passionate about building and fixing things, working with complex systems, automating tasks, and making sense of data.&lt;/p&gt;&#xA;&lt;p&gt;Before turning fully to AI technologies and Python, I worked as an experimental quantum physicist at Cornell University (USA) and Copenhagen University (Denmark). Experimental research has taught me practical ways to collect, transform, analyze, and visualize data in the most automated way. Most importantly, I have learned to deal with complex systems and deconstruct them until they can be managed.&lt;/p&gt;</description>
     </item>
   </channel>
