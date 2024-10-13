@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Daveau</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Raphael Daveau</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 13:56:06 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 13 Oct 2024 13:56:06 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Get in touch&lt;/p&gt;&#xA;&lt;p&gt;Whether you need a better understanding of your data, creating beautiful visualizations or live dashboards, making future predictions.. let&amp;rsquo;s discuss.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 13 Oct 2024 13:55:32 +0200</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;My projects&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Sun, 13 Oct 2024 13:55:06 +0200</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 11 Oct 2024 12:11:32 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an AI scientist and Python developer transitioning from the world of academic research. I am passionate about building and fixing things, working with complex systems, automating tasks, and making sense of data.&lt;/p&gt;&#xA;&lt;p&gt;Before turning fully to AI technologies and Python, I worked as an experimental quantum physicist at Cornell University (USA) and Copenhagen University (Denmark). Experimental research has taught me practical ways to collect, transform, analyze, and visualize data in the most automated way. Most importantly, I have learned to deal with complex systems and deconstruct them until they can be managed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

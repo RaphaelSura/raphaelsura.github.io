@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sourceRoot": "C:/Users/Raphael/Documents/websites/raphaelsura.github.io",
+	"sources": [
+		"assets/scss/custom.scss"
+	],
+	"sourcesContent": [
+		".skills-grid {\r\n    display: grid;\r\n    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));\r\n    gap: 20px;\r\n    margin: 40px 0;\r\n}\r\n\r\n.skill {\r\n    text-align: center;\r\n}\r\n\r\n.skill i {\r\n    font-size: 48px;\r\n    color: #007bff;\r\n    /* Adjust the color to match your theme */\r\n}\r\n\r\n.skill h3 {\r\n    margin-top: 10px;\r\n    font-size: 20px;\r\n}\r\n\r\n.skill p {\r\n    font-size: 16px;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,GAAG,EAAE,IAAI;EACT,MAAM,EAAE,MAAM,GACjB;;AAED,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,MAAM,GACrB;;AAED,AAAA,MAAM,CAAC,CAAC,CAAC;EACL,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;EACd,0CAA0C,EAC7C;;AAED,AAAA,MAAM,CAAC,EAAE,CAAC;EACN,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI,GAClB;;AAED,AAAA,MAAM,CAAC,CAAC,CAAC;EACL,SAAS,EAAE,IAAI,GAClB"
+}
